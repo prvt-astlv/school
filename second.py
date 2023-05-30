@@ -1,2 +1,1 @@
-def f():
-    return "Hi World"
+a = 29
